@@ -23,4 +23,4 @@ This repository contains detailed laboratory investigation reports, packet analy
 * **OSINT & Threat Intelligence** (Google Dorking, IoC Analysis)
 
 ---
-*Prepared by Ilgin Ceylan | Computer Engineering Student*
+*Prepared by Ilgin Ceylan | Computer Science Student*
