@@ -18,7 +18,7 @@ This repository contains detailed laboratory investigation reports, packet analy
 
 ### 3. Computer Forensics - Lab 4 (Splunk Setup & Windows Event Log Forensics)
 - **File (Part A):** [Ilgin Ceylan - 82862 - Computer Forensics - Lab4a Splunk.pdf](https://github.com/Ilginceylan/Computer-Forensics-SWPS2026/blob/main/Lab-4-Splunk-Logjammer/Lab-4a_Splunk_setup.pdf)
-- **File (Part B):** [Ilgin Ceylan - 82862 - Computer Forensics - Lab4b.pdf](Ilgin%20Ceylan%20-%2082862%20-%20Computer%20Forensics%20-%20Lab4b.pdf)
+- **File (Part B):** [Ilgin Ceylan - 82862 - Computer Forensics - Lab4b.pdf](https://github.com/Ilginceylan/Computer-Forensics-SWPS2026/blob/main/Lab-4-Splunk-Logjammer/Lab-4b_forensic_analysis.pdf)
 - **Overview:** Splunk-based forensic investigation of a multi-stage attack on a Windows machine (Logjammer scenario). Part A covers building the analysis environment; Part B reconstructs the attacker's kill chain from Windows event logs. Tasks include:
   - Installing Splunk Enterprise on Linux Mint, converting binary `.evtx` logs to JSON Lines with Python (`python3-evtx`) and indexing 4,252 events (`htb-logjammer`).
   - Extracting fields from raw event XML with SPL (`rex`) and correlating UTC timestamps (`SystemTime`) across five log sources.
