@@ -2,7 +2,7 @@
 
 This repository contains detailed laboratory investigation reports, packet analyses (Wireshark), and security incident response tasks completed as part of the **Computer Forensics & Operating Systems** coursework.
 
-## 📂 Repository Contents
+## Repository Contents
 
 ### 1. Bumblebee - Investigation Report (Stored XSS Attack)
 * **File:** [`Ilgin Ceylan - Bumblebee – Investigation Report (Stored XSS Attack).pdf`](./Ilgin%20Ceylan%20-%20Bumblebee%20–%20Investigation%20Report%20(Stored%20XSS%20Attack).pdf)
@@ -16,7 +16,7 @@ This repository contains detailed laboratory investigation reports, packet analy
   * Manual protocol decoding (`Decode As`) for non-standard ports (`port 24456`).
   * Analyzing **Port Knocking** configurations and iptables defense mechanisms.
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 * **Wireshark** (Packet Analysis, TCP Stream Following, Protocol Decoding)
 * **SQLite / Command Line** (Database Forensics, Log Analysis)
 * **Bash / Linux Terminal** (`grep`, `strings`, log parsing)
