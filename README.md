@@ -5,7 +5,7 @@ This repository contains detailed laboratory investigation reports, packet analy
 ## Repository Contents
 
 ### 1. Bumblebee - Investigation Report (Stored XSS Attack)
-* **File:** [`Ilgin Ceylan - Bumblebee – Investigation Report (Stored XSS Attack).pdf`](./Ilgin%20Ceylan%20-%20Bumblebee%20–%20Investigation%20Report%20(Stored%20XSS%20Attack).pdf)
+* **File:** [`Ilgin Ceylan - Bumblebee – Investigation Report (Stored XSS Attack).pdf`](https://github.com/Ilginceylan/Computer-Forensics-SWPS2026/blob/main/Ilgin%20Ceylan%20-%20Bumblebee%20%E2%80%93%20Investigation%20Report%20(Stored%20XSS%20Attack).pdf)
 * **Overview:** Investigation of a Stored XSS attack scenario on a phpBB forum. This report covers identifying attacker accounts via SQLite database queries, tracing malicious payload insertion (`post_id` 9), analyzing server access logs, uncovering leaked plaintext LDAP credentials (`phpbb_config`), OSINT techniques via Google Dorks (`site:github.com`), and identifying ransomware indicators of compromise (IoCs like `GonnaCry`).
 
 ### 2. Computer Forensics - Lab 1 (Network Scanning & Port Knocking)
